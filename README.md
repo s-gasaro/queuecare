@@ -1,5 +1,11 @@
 # QueueCare
 
+**Live application:** https://queuecare-ntk7.onrender.com
+
+**API documentation:** https://queuecare-ntk7.onrender.com/docs
+
+> Hosted on Render's free tier. The instance sleeps after inactivity, so the
+> first request may take up to a minute to respond.
 A clinic appointment and queue management system: a REST API with a small HTML
 interface, plus an automated test suite covering API and UI.
 
